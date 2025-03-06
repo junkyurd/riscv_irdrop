@@ -1,3 +1,6 @@
 RTL and simulation code for RISC-V IRdrop testchip
+taped out using 28nm with 1GHz RISC-V clock frequency
 
-Only sharable files are visible
+RISC-V used: OpenHWGroup cv32e40p RV32I
+
+Only sharable files are included
