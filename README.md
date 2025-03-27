@@ -6,9 +6,13 @@ RISC-V used: OpenHWGroup cv32e40p RV32I
 Only sharable files are included
 
 Authors
+
 top rtl design: Junkyu Kim
+
 odometer: Tahmida Islam
+
 noise injector: Hanzhao Yu
+
 sim: Junkyu Kim/Hanzhao Yu
 
 ![image](https://github.com/user-attachments/assets/c2b1a2d7-380b-4bbf-873c-852ead3d6a07)
